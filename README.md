@@ -1,6 +1,6 @@
 * This repository simulate a town as object
         Individue -> Medecin
                   -> Eleve
-                  -> Enseignant
+                  -> Enseignant \n
         Batiment -> Hopital
                  -> Ecole
